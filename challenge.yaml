@@ -1,0 +1,7 @@
+slug: slack-export
+title: Slack Export
+category: forensics
+difficulty: easy
+points: 200
+codec: base64
+repo_url: https://github.com/sparflag/slack-export
